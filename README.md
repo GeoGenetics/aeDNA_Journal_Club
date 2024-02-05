@@ -18,6 +18,7 @@ Lastly, we decide on the next paper and who wants to present it.
 There is also a website for this meeting https://github.com/GeoGenetics/aeDNA_Journal_Club (OBS still under construction)
 
 New papers published in the recent period
+```
 Smith et al., (2024) The ecology, subsistence and diet of ~45,000-year-old Homo sapiens at Ilsenhöhle in Ranis, Germany. Nature Ecology and Evolution.
 Elena Fiorin., (2024) First archaeological evidence for ginger consumption as a potential medicinal ingredient in a late medieval leprosarium at St Leonard, Peterborough, England. Scientific reports. 
 Tyler J. Murchie et al., (2023). Permafrost microbial communities follow shifts in vegetation, soils, and megafauna extinctions in Late Pleistocene NW North America. environmental DNA.
@@ -29,6 +30,6 @@ Haoyu Li et al., (2024) Sedimentary DNA reveals the link between microbial commu
 
 Preprints
 Darjan Gande (2023) "Recovering short DNA fragments from minerals and marine sediments: a comparative study evaluating lysis and isolation approaches" available at BioRxiv. 
-
+```
 Please feel free to join us all are welcome. 
 Best wishes, 
