@@ -9,11 +9,16 @@ Since this is a new Journal Club it will be possible to help shape the format an
 The first paper we will discuss is the Massilani paper and Rikai will give a short introduction to it. But it is important that you also read the paper so we can have a fruitful discussion! Please accept the coming calendar invitation if you are joining! 
 
 A Programme could be as follows: 
-One person presents for 10 minutes the main objective, methods, results and conclusions. 
-Then we have a 30-minute discussion
-Small chat about new papers for 5-10 min
-10 minutes on how we want to structure this journal club, what we need? who wants to help? 
-Lastly, we decide on the next paper and who wants to present it. 
+
+1. One person presents for 10 minutes the main objective, methods, results and conclusions. 
+
+2. Then we have a 30-minute discussion
+
+3. Small chat about new papers for 5-10 min
+
+4. 10 minutes on how we want to structure this journal club, what we need? who wants to help? 
+
+5. Lastly, we decide on the next paper and who wants to present it. 
 
 There is also a website for this meeting https://github.com/GeoGenetics/aeDNA_Journal_Club (OBS still under construction)
 
