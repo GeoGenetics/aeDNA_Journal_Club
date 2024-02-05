@@ -1,7 +1,5 @@
 # Ancient eDNA Journal Club
 
-Ancient eDNA Journal Club 2024 Thursday the 8th at 2 pm. 
-
 This journal club is an open offer to anyone who would like to read and discuss literature within the field of ancient environmental DNA/genomics. And can include papers with various scopes, but that all confines somehow within the field of Ancient eDNA. 
 
 Since this is a new Journal Club it will be possible to help shape the format and how we do it. At the moment, Rikai, Guilia and myself, have volunteered to establish this new tradition. The CAEG centre will support the event with cake!!  
@@ -34,5 +32,6 @@ Haoyu Li et al., (2024) Sedimentary DNA reveals the link between microbial commu
 Preprints
 Darjan Gande (2023) "Recovering short DNA fragments from minerals and marine sediments: a comparative study evaluating lysis and isolation approaches" available at BioRxiv. 
 ```
-Please feel free to join us all are welcome. 
-Best wishes, 
+
+## Next meeting
+Thursday, February 8th at 2 pm, in the GeoGenetics Meeting Room, Oester Voldgade 7, 1350 Kbh C. 
