@@ -20,8 +20,6 @@ A Programme could be as follows:
 
 5. Lastly, we decide on the next paper and who wants to present it. 
 
-There is also a website for this meeting https://github.com/GeoGenetics/aeDNA_Journal_Club (OBS still under construction)
-
 New papers published in the recent period
 ```
 Smith et al., (2024) The ecology, subsistence and diet of ~45,000-year-old Homo sapiens at Ilsenhöhle in Ranis, Germany. Nature Ecology and Evolution.
